@@ -3,7 +3,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "version": "4.56.10",
+  "version": "5.0.0",
   "description": "Node.js standard library dependencies for fs-related packages",
   "author": {
     "name": "streamich",
